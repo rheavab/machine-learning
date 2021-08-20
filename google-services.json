@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591290227389",
+    "project_id": "nirmalbakery-july",
+    "storage_bucket": "nirmalbakery-july.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591290227389:android:7d44207ea86811a523b5d4",
+        "android_client_info": {
+          "package_name": "com.mibtech.nbakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591290227389-dtbu17h8bfcspfo0t3ipdud59nc9a1ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUJGsel0bgGAK3MU3hpj0YiVuAsNIbjfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591290227389-dtbu17h8bfcspfo0t3ipdud59nc9a1ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
